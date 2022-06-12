@@ -5,3 +5,9 @@ localhost:5000
 /api/v1
 /api/v1/books
 ```
+
+- [x] Publish 😀
+- [ ] into no-code version 👨
+- [ ] Brainstorming 🧠⚡👨🏽‍💻
+- [ ] etc
+
